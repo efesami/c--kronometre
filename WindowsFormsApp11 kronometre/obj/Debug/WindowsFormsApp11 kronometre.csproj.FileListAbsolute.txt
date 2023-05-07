@@ -1,0 +1,11 @@
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\bin\Debug\WindowsFormsApp11 kronometre.exe.config
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\bin\Debug\WindowsFormsApp11 kronometre.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\bin\Debug\WindowsFormsApp11 kronometre.pdb
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11 kronometre.csproj.AssemblyReference.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11 kronometre.csproj.SuggestedBindingRedirects.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11_kronometre.Form1.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11_kronometre.Properties.Resources.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11 kronometre.csproj.GenerateResource.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11 kronometre.csproj.CoreCompileInputs.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11 kronometre.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp11 kronometre\WindowsFormsApp11 kronometre\obj\Debug\WindowsFormsApp11 kronometre.pdb
